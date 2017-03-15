@@ -1,5 +1,5 @@
 # variety-goodreads-quotes
-Goodreads plugin for Variety wallpaper changer
+Goodreads quotes plugin for Variety wallpaper changer. You can add quotes to your desktop wallpaper with this plugin.
 
 Installation:
 
